@@ -9,9 +9,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7b9b0df99d29843fbb93781d9c90c6bb, type: 3}
-  m_Name: Anduril
+  m_Name: Iron Sword
   m_EditorClassIdentifier: 
-  damage: 20
+  damage: 5
   weaponType: 0
-  isTwoHanded: 1
-  rarity: 5
+  isTwoHanded: 0
+  rarity: 1

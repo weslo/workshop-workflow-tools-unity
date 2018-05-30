@@ -8,10 +8,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7b9b0df99d29843fbb93781d9c90c6bb, type: 3}
-  m_Name: Anduril
+  m_Script: {fileID: 11500000, guid: 8755fe20554da4f599538155addfcf17, type: 3}
+  m_Name: Frodo
   m_EditorClassIdentifier: 
-  damage: 20
-  weaponType: 0
-  isTwoHanded: 1
-  rarity: 5
+  level: 1
+  race: 3
+  combatClass: 2
+  rarity: 1
