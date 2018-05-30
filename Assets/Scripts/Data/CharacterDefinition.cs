@@ -34,6 +34,18 @@ public class CharacterDefinition : ScriptableObject {
 	// This character's class.
 	public CharacterClass combatClass;
 
+	// This character's rarity.
+	public Rarity rarity;
+
 	// The weapon this character wields.
+	[SerializeField]
 	private WeaponDefinition weapon;
+
+	// Returns the total damage this character deals.
+	public int GetTotalDamage() {
+		if(weapon == null) {
+			return level;
+		}
+		return level * weapon.damage;
+	}
 }
