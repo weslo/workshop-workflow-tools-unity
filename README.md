@@ -23,7 +23,8 @@ If you're an engineer or Unity developer, come learn how to make tools that you 
 
 ## Unity Editor Attributes
 
-- Use attributes to add quick and dirty utilities to the editor: [Tutorial](https://unity3d.com/learn/tutorials/topics/scripting/attributes)
+- Use attributes to add quick and dirty utilities to the editor: [Attributes Tutorial](https://unity3d.com/learn/tutorials/topics/scripting/attributes)
+- Create a menu item: [Menu Items Tutorial](https://unity3d.com/learn/tutorials/topics/interface-essentials/unity-editor-extensions-menu-items)
 - Create an asset for a ScriptableObject type: [ScriptableObjects Tutorial](https://unity3d.com/learn/tutorials/modules/beginner/live-training-archive/scriptable-objects)
-- Making a field serializable: [Serializable](https://docs.unity3d.com/ScriptReference/Serializable.html)
+- Making a field serializable: [Serializable Reference](https://docs.unity3d.com/ScriptReference/Serializable.html)
 - Tweak the way fields are exposed to designers: [Range Tutorial](https://unity3d.com/learn/tutorials/topics/tips/show-public-variables-sliders-rangemin-max)
