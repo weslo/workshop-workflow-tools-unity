@@ -28,3 +28,10 @@ If you're an engineer or Unity developer, come learn how to make tools that you 
 - Create an asset for a ScriptableObject type: [ScriptableObjects Tutorial](https://unity3d.com/learn/tutorials/modules/beginner/live-training-archive/scriptable-objects)
 - Making a field serializable: [Serializable Reference](https://docs.unity3d.com/ScriptReference/Serializable.html)
 - Tweak the way fields are exposed to designers: [Range Tutorial](https://unity3d.com/learn/tutorials/topics/tips/show-public-variables-sliders-rangemin-max)
+
+## Unity Editor Extensions
+
+- Assign icons to types in the editor: [Assigning Icons Tutorial](https://docs.unity3d.com/Manual/AssigningIcons.html)
+- Extend or replace Unity inspector GUIs: [Building a Custom Inspector Tutorial](https://unity3d.com/learn/tutorials/topics/interface-essentials/building-custom-inspector)
+- Change the way a serialized type is displayed across the editor: [Property Drawers Manual](https://docs.unity3d.com/Manual/editor-PropertyDrawers.html)
+- Create a custom window for a standalone tool in Unity: [Editor Windows Manual](https://docs.unity3d.com/Manual/editor-EditorWindows.html)

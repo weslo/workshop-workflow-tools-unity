@@ -9,6 +9,7 @@ public enum WeaponType {
 
 // Enumeration for a generic rarity level.
 public enum Rarity {
+	Trash,
 	Common,
 	Uncommon,
 	Rare,

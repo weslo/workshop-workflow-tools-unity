@@ -9,7 +9,7 @@ public class CharacterDefinitionInspector : Editor {
 	public override void OnInspectorGUI() {
 		base.OnInspectorGUI();
 
-		var characterDefinition = target as CharacterDefinition;
+		CharacterDefinition characterDefinition = target as CharacterDefinition;
 
 		GUIStyle labelStyle = GUI.skin.label;
 		labelStyle.fontStyle = FontStyle.Bold;

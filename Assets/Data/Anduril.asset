@@ -11,6 +11,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b9b0df99d29843fbb93781d9c90c6bb, type: 3}
   m_Name: Anduril
   m_EditorClassIdentifier: 
-  damage: 0
+  damage: 5
   weaponType: 0
-  isTwoHanded: 0
+  isTwoHanded: 1
+  rarity: 0
