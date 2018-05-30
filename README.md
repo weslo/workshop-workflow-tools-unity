@@ -5,6 +5,10 @@ But tools are not just for AAA titles; we can always build small tools throughou
 
 If you're an engineer or Unity developer, come learn how to make tools that you and your team can use every day in your workflow. If you're an artist, designer, or other non-technical game developer, come learn what kinds of tools you can expect your engineers to be capable of creating!
 
+## What is Serialization?
+
+Serialization is the process of deterministically formatting data so that it can be stored or transmitted. Deserialization is the opposite process.
+
 ## Examples/Inspiration for Tools
 
 - [Warcraft 3 World Editor](https://youtu.be/Z4Q3kqAJR8A?t=3m53s)

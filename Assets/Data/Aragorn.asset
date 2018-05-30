@@ -14,5 +14,5 @@ MonoBehaviour:
   level: 11
   race: 0
   combatClass: 0
-  rarity: 0
+  rarity: 4
   weapon: {fileID: 11400000, guid: 08423033f84c04cc7879f86d85dd7f86, type: 2}
