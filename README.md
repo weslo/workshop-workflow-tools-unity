@@ -11,6 +11,7 @@ If you're an engineer or Unity developer, come learn how to make tools that you 
 - [Starcraft 2 Editor](https://youtu.be/pNhJPQvW-pc)
 - [TexturePacker](https://www.codeandweb.com/texturepacker)
 - [Easy Feedback](https://assetstore.unity.com/packages/tools/integration/easy-feedback-form-81608)
+- [Chevy Ray](https://twitter.com/ChevyRay)
 - [Stephan Hövelbrinks](https://twitter.com/talecrafter/status/971021795749965824)
 
 ## Why would you make a tool?
